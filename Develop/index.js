@@ -64,6 +64,7 @@ const questions = [
         type: "input",
         name: "licensing",
         message: "pick a licens for your project",
+        choices: ["MIT", "GNU-General-Public", "Common-Development-and Distribution", "Mozilla-Public", "None"],
         validate:  proLice => {
             if(proLice) {
                 return true
