@@ -1,8 +1,8 @@
-# ${data.title}
+# fghfgh
 
   ## Description
 
-  ${data.desc}
+  fghf
 
   ## Table of contents
   * [Installation](#installation)
@@ -12,26 +12,26 @@
   
   ## Instalation
 
-  ${data.install}
+  fghf
 
   ## Usage
 
-  ${data.proUse}
+  fghf
 
   ## License
 
-  [![license](https://img.shields.io/badge/license-${data.licensing}-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
 
   ## Contribution:
-  ${data.contributions}
+  fgh
 
 
   ## Testing:
 
-  ${data.testing}
+  fghfgh
 
   ## Additional Info:
-  - Github: [${data.gitUser}](https://github.com/${data.gitUser})
-  - Email: ${data.email} 
- 
+  - Github: [fghfgh](https://github.com/fghfgh)
+  - Email: fgh 
+  
