@@ -22,7 +22,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "desc",
+        name: "description",
         message: "please write a description of your project.",
         validate: proDesc => {
             if (proDesc) {
@@ -36,7 +36,7 @@ const questions = [
 
     {
         type: "input",
-        name: "install",
+        name: "installation",
         message: "how do you install the project ",
         validate: proInstall => {
             if (proInstall) {
@@ -49,7 +49,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "proUse",
+        name: "projectUsage",
         message: "How do you use this project?",
         validate: proTitle => {
             if (proTitle) {
@@ -76,7 +76,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "gitUser",
+        name: "gitUsername",
         message: "What is your github username?",
         validate: gitUser => {
             if (gitUser) {
