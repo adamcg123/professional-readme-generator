@@ -22,6 +22,9 @@
   ## Usage
 
   you follow the installation guide then you answer the questions when asked then when done you get your readme
+  
+  ## Walkthrough Video
+  [Click here for the walkthrough](https://drive.google.com/file/d/1A0IFr367jqdgxGRU-lh8qcNb87Hs2Bj7/view)
 
 
   ## Contribution:
