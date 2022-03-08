@@ -17,7 +17,7 @@
   
   ## Installation
 
-  you clone it onto your desktop then open with vs code, open a new terminal, CD into the develop folder, then type node index.js,
+  you clone it onto your desktop then open with vs code, open a new terminal, CD into the develop folder, then type node index.js then you should be set!
 
   ## Usage
 
