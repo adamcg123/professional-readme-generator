@@ -1,5 +1,5 @@
 
-  # Professional README generator
+  # MVC-tech-blog
 
   ## License
 
@@ -7,7 +7,7 @@
 
   ## Description
 
-  This is a readme generator that runs in a terminal and you answer the questions in the cli and it takes the info that you entered and makes a readme
+  this is a MVC app that allows users to create a account, login, make and edit post, delete post and comment on others post. so its basically a blog app.
 
   ## Table of contents
   * [Installation](#installation)
@@ -18,22 +18,22 @@
   
   ## Installation
 
-  you clone it onto your desktop then open with vs code, open a new terminal, CD into the develop folder, then type node index.js,
+  to run this app locally you clone it then open your terminal and first you npm init then npm i and you should be all set for npm start after that go to localhost in your browser
 
   ## Usage
 
-  you follow the installation guide then you answer the questions when asked then when done you get your readme
+  you can view, comment, create and delete post also you are able to update post headers.
 
 
   ## Contribution:
-  no need for contribution on this project
+  no contribution needed
 
 
   ## Testing:
 
-  node index.js
+  npm init, npm i, npm start
 
   ## Additional Info:
-  - Github: [adamcg123](https://github.com/adamcg123)
-  - Email: adam.Gondorchin26@gmail.com 
+  - Github: [undefined](https://github.com/undefined)
+  - Email:  
   
